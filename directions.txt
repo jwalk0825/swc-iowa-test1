@@ -1,0 +1,7 @@
+nano filename.txt
+write text, save
+git add filename.txt
+commit it 
+git push
+enter username and pword
+refresh page
